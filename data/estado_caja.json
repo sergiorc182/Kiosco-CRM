@@ -1,0 +1,16 @@
+{
+  "abierta": false,
+  "saldo": 300000.0,
+  "monto_apertura": 15000.0,
+  "monto_cierre": 300000.0,
+  "id_caja": 5,
+  "id_empleado": null,
+  "movimientos": [
+    {
+      "tipo": "ingreso",
+      "monto": 5000.0,
+      "descripcion": "Movimiento manual",
+      "fecha": "2026-04-01 14:10:36"
+    }
+  ]
+}
