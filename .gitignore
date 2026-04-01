@@ -1,0 +1,56 @@
+# 🐍 Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 🔁 Entornos virtuales
+venv/
+env/
+ENV/
+.venv/
+
+# ⚙️ Archivos de entorno (credenciales)
+.env
+*.env
+
+# 🧪 Archivos temporales
+*.log
+*.tmp
+*.swp
+
+# 🧠 IDEs / Editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# 🖥️ Sistema operativo
+.DS_Store
+Thumbs.db
+
+# 📦 Build / dist
+build/
+dist/
+*.egg-info/
+
+# 🗄️ Base de datos local (si usás archivos)
+*.sqlite3
+*.db
+
+# 📄 Archivos compilados
+*.exe
+*.dll
+*.so
+
+# 📊 Cache
+.cache/
+
+# 🔐 Config sensibles (opcional si usás config.py)
+config.py
+
+# 📁 Archivos de pruebas o backup
+backup/
+*.bak
+
+# 🧾 Logs de ejecución
+logs/
